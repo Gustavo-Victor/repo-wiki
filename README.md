@@ -26,6 +26,8 @@ Este projeto é uma aplicação React que busca repositórios de usuários do Gi
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Vite](https://vitejs.dev/)
+- [React Icons](https://www.npmjs.com/package/react-icons)
+- [Axios](https://www.npmjs.com/package/axios)
 
 Veja como ficou o arquivo [package.json](./package.json) 
 

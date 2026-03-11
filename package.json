@@ -1,7 +1,9 @@
 {
   "name": "repo-wiki",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "description": "A Github repository finder",
+  "keywords": ["react", "styled-components", "vite", "use-state", "react-icons", "axios"],
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
